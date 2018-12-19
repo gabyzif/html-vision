@@ -1,0 +1,15 @@
+
+#general{
+     width: 1280px;
+     overflow: hidden;
+ }
+
+
+.images{
+    float: left; margin: 10px; height: 700px;
+}
+
+.images-all{
+    height: 22vh;
+}
+
